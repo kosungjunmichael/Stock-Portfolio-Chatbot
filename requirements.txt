@@ -1,0 +1,5 @@
+pymongo
+yfinance
+langchain
+langchain-openai
+python-dotenv
