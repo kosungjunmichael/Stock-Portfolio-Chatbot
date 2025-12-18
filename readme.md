@@ -1,6 +1,6 @@
 # Stock Portfolio Chatbot
 
-![chatbot](images/demo.png)
+<img src="images/demo.png" width="400">
 
 This Python-based project is a command-line stock portfolio chatbot that allows users to record BUY and SELL trades and query portfolio performance using natural language. Trades are stored in MongoDB, live market prices are retrieved with `yfinance`, and profit and loss is calculated using average-cost accounting.
 
